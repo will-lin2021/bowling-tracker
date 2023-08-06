@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"bt_base",
+	"bt_cli",
+	"bt_util",
+]
